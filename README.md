@@ -1,6 +1,6 @@
 # Puzzle Piece Matcher 🧩  
 
-This script finds a puzzle piece in a background image using edge detection and template matching with OpenCV.  
+This script finds a puzzle piece in a background image using edge detection and template matching with OpenCV. This is useful for solving Captchas on chinese e-commerce sites such as Taobao.
 
 ## Requirements  
 
